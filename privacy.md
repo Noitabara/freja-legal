@@ -109,11 +109,16 @@ identifiers.
 ## 7. Your rights, and how to use them
 
 You may ask us to give you a copy of your data, correct it, delete it, or
-restrict how we use it.
+restrict how we use it. Two ways to ask:
 
-**Write to me@noita.dev** with your Discord user ID. We may ask you for
-information to confirm you are the person the data is about. We respond within
-30 days. Repeated or excessive requests may be refused or rate-limited.
+- **In Discord** — run `/data-request`. This is the preferred route, because
+  Discord confirms your identity for us.
+- **By email** — write to **me@noita.dev** with your Discord user ID. Use this
+  if you have left the server and can no longer use the command. We may ask you
+  for information to confirm you are the person the data is about.
+
+Either way we respond within 30 days. Repeated or excessive requests may be
+refused or rate-limited.
 
 If you are in the EU or UK, these rights arise under the GDPR and UK GDPR, and
 you may complain to your local data protection authority.

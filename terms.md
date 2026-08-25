@@ -100,8 +100,8 @@ How we handle personal data is set out in the
 short: we store Discord user IDs, usernames, role IDs, and moderation records;
 we do not store message content in our database; and we do not sell your data.
 
-You can request a copy of your data or its deletion at any time by writing to
-**me@noita.dev**.
+You can request a copy of your data, a correction, or its deletion at any time
+by running `/data-request` in Discord, or by writing to **me@noita.dev**.
 
 ---
 
